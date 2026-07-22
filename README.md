@@ -42,7 +42,7 @@ Hoje utilizo este perfil para documentar minha evolução na área de Cyber Secu
 
 <img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="<img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"/>"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
