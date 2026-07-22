@@ -59,6 +59,10 @@ Hoje utilizo este perfil para documentar minha evolução na área de Cyber Secu
 
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 
+<a href="https://portswigger.net/burp">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+</a>
+
 </p>
 
 ---
