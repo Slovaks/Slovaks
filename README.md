@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="[https://i.imgur.com/SEU_BANNER.png](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkwZzRuNHl1ajl3dGh5M2tuczB5enM0a214azd1cWxsdmkzNWg5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0EjSchLsP5Y9ltifXF/giphy.gif)" alt="Banner" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkwZzRuNHl1ajl3dGh5M2tuczB5enM0a214azd1cWxsdmkzNWg5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0EjSchLsP5Y9ltifXF/giphy.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Guilherme Abner</h1>
