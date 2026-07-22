@@ -64,9 +64,7 @@ Hoje utilizo este perfil para documentar minha evolução na área de Cyber Secu
 
 <p align="center">
 
-<a href="https://tryhackme.com/p/SEU_USUARIO">
-<img src="https://img.shields.io/badge/TryHackMe-SEU_USUARIO-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/TryHackMe-0B1120?style=for-the-badge&logo=tryhackme&logoColor=%23CC0000"/>
 
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
@@ -104,8 +102,3 @@ Hoje utilizo este perfil para documentar minha evolução na área de Cyber Secu
 
 ✔️ Desafios resolvidos em plataformas de Cyber Security
 
----
-
-<p align="center">
-⭐ Obrigado pela visita!
-</p>
