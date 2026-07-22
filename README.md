@@ -2,12 +2,6 @@
 <!--                    PROFILE README                         -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZkY2Y5dHMxdmxycWtwMGNqYXdzN3I0dHAzZ2VwdXphcDg4aGRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" 
-       width="100%" 
-       height="250px"
-       style="object-fit: cover;">
-</p>
 
 <h1 align="center">Olá! 👋 Eu sou Guilherme Abner</h1>
 
