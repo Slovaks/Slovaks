@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 
-<h1 align="center">Olá! 👋 Eu sou Guilherme Abner</h1>
+<h1 align="center">Olá! 👋 Eu sou Gui , conhecido como Slovaks </h1>
 
 <h3 align="center">
 🎓 Estudante de Defesa Cibernética • 🛡️ Offensive Security • 🐍 Python
@@ -19,7 +19,7 @@
 
 # 👨🏻‍💻 Sobre mim
 
-Sou estudante de **Defesa Cibernética** pela **Universidade Estácio de Sá** e apaixonado por **Segurança Ofensiva**, **Pentest** e **Bug Bounty**.
+Sou estudante de **Defesa Cibernética** e apaixonado por **Segurança Ofensiva**, **Pentest** e **Bug Bounty**.
 
 Desde pequeno sempre fui curioso e fascinado por tecnologia. Gostava de entender como computadores funcionavam e passava horas explorando tudo o que podia aprender.
 
